@@ -2,42 +2,52 @@
 
 AI App Ops Engineer from Bandung, Indonesia.
 
-I build internal tools, dashboards, automation workflows, and infra-backed web apps for real operations problems. My lane is somewhere between app maintenance, fullstack, IT ops, Linux servers, and practical debugging.
+I build internal tools, dashboards, automation workflows, and infra-backed web apps for real operations problems. My lane sits between app maintenance, fullstack development, IT ops, Linux servers, and practical debugging.
 
-I like tools that actually help teams work faster, not just pretty demos.
+I like tools that remove boring manual work. Less clicking around, more visibility, fewer "why is this broken?" moments.
 
-## what i do
+## what i'm good at
 
-- Build internal dashboards and operations tools
-- Maintain apps, fix bugs, and troubleshoot deployments
-- Work with Linux, Docker, Nginx, FastAPI, Node.js, React, and PostgreSQL
-- Turn messy operational workflows into simpler tools
-- Use AI-assisted development workflows to move faster from idea to working system
-- Keep security, infra, and maintainability in mind while building
+- Internal tools and operations dashboards
+- Application maintenance, bug fixing, and deployment troubleshooting
+- Linux, Docker, Nginx, FastAPI, Node.js, React, and PostgreSQL
+- Turning messy operational workflows into cleaner systems
+- AI-assisted development: PRD first, agent workflows, manual review, debugging
+- Security-aware building, especially around IoT and networked systems
 
 ## current focus
 
-- AI-assisted app ops
-- Internal tools for operations teams
-- Store/branch monitoring workflows
-- Automation for repetitive support work
-- Practical fullstack systems with infra awareness
+- AI-assisted App Ops
+- Internal dashboards for store, branch, and support teams
+- Automation for repetitive IT/support work
+- Infra-backed fullstack apps
+- Remote contract, freelance, and full-time work in USD markets
 
-## featured work
+## proof of work
+
+### [Enterprise Operations Monitor](https://github.com/trefeon/enterprise-ops-monitor)
+
+Operations dashboard for retail/store environments: EOD monitoring, store sync, backups, system health, agent updater, accounts, roles, and after-hours checks.
+
+Built from real app-ops pain: too much manual checking, unclear branch status, and repetitive update workflows. Public version uses dummy/simulated data.
 
 ### [Velesync](https://github.com/trefeon/Velesync)
-IoT telemetry and monitoring platform using MQTT, backend services, and web dashboard concepts.
+
+IoT telemetry and monitoring platform using MQTT, backend services, Docker/Nginx deployment concepts, and web dashboard workflows.
 
 ### [Prototype IoT Pentester](https://github.com/trefeon/Prototype-IoT-Pentester)
+
 Prototype toolkit for IoT security testing across WiFi, BLE, NFC/RFID, and device workflows.
 
 ### [Antigravity Universal Patch](https://github.com/trefeon/antigravity-universal-patch)
+
 Compatibility patch for Antigravity IDE language server crashes on older CPUs using QEMU user-mode emulation.
 
 ### [Docker Termux](https://github.com/trefeon/Docker-Termux)
+
 Docker workflow exploration for Termux and lightweight Linux environments.
 
-## stack i use
+## stack
 
 **Frontend:** React, Vite, HTML, CSS, JavaScript  
 **Backend:** FastAPI, Node.js, Express  
@@ -48,14 +58,14 @@ Docker workflow exploration for Termux and lightweight Linux environments.
 
 ## open to
 
-Remote contract, freelance, and full-time work around:
-
 - Application maintenance
 - Internal tools
 - Operations dashboards
 - Fullstack operations
 - Technical support engineering
 - Automation workflows
+
+Best fit: small teams, ops teams, IT teams, and founders who need practical tools that solve real workflow problems.
 
 ## links
 

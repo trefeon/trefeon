@@ -1,35 +1,39 @@
 # yo, i'm Abi
 
-AI App Ops Engineer from Bandung, Indonesia.
+Application Support Engineer / IT Support & Application Maintenance from Bandung, Indonesia.
 
-I build internal tools, dashboards, automation workflows, and infra-backed web apps for real operations problems. My lane sits between app maintenance, fullstack development, IT ops, Linux servers, and practical debugging.
+I build and maintain internal tools, dashboards, automation workflows, and Linux-backed web apps for real operations problems. My lane sits between app support, IT ops, fullstack development, Docker/Nginx deployment, reporting automation, and practical debugging.
 
-I like tools that remove boring manual work. Less clicking around, more visibility, fewer "why is this broken?" moments.
+I like fixing messy workflows: fewer manual checks, clearer monitoring, better reports, and systems that are easier for ops teams to use.
 
-## what i'm good at
+## what i work on
 
+- Application maintenance, bug fixing, and deployment support
 - Internal tools and operations dashboards
-- Application maintenance, bug fixing, and deployment troubleshooting
-- Linux, Docker, Nginx, FastAPI, Node.js, React, and PostgreSQL
-- Turning messy operational workflows into cleaner systems
-- AI-assisted development: PRD first, agent workflows, manual review, debugging
-- Security-aware building, especially around IoT and networked systems
+- Excel/XLSX reporting and automated report distribution
+- Endpoint monitoring and support workflows
+- Docker, Nginx, Linux, Proxmox, and PostgreSQL-backed apps
+- AI-assisted development with PRD documentation, debugging, and manual review
+- Security-aware building around RBAC, IoT, and networked systems
 
-## current focus
+## current direction
 
-- AI-assisted App Ops
-- Internal dashboards for store, branch, and support teams
-- Automation for repetitive IT/support work
-- Infra-backed fullstack apps
-- Remote contract, freelance, and full-time work in USD markets
+- Application Support Engineer
+- IT Application Support
+- Internal Tools Developer
+- Technical Support Engineer
+- Fullstack Operations
+- Automation for IT/support workflows
 
 ## proof of work
 
 ### [Enterprise Operations Monitor](https://github.com/trefeon/enterprise-ops-monitor)
 
-Operations dashboard for retail/store environments: EOD monitoring, store sync, backups, system health, agent updater, accounts, roles, and after-hours checks.
+Retail/store operations dashboard using simulated data.
 
-Built from real app-ops pain: too much manual checking, unclear branch status, and repetitive update workflows. Public version uses dummy/simulated data.
+Covers EOD monitoring, store sync, backups, system health, agent updater, accounts, roles, and after-hours checks.
+
+Built from real app-ops pain: too much manual checking, unclear branch status, repetitive update workflows, and missing operational visibility.
 
 ### [Velesync](https://github.com/trefeon/Velesync)
 
@@ -49,23 +53,26 @@ Docker workflow exploration for Termux and lightweight Linux environments.
 
 ## stack
 
-**Frontend:** React, Vite, HTML, CSS, JavaScript  
-**Backend:** FastAPI, Node.js, Express  
-**Database:** PostgreSQL, SQLAlchemy  
-**Infra:** Linux, Docker, Nginx, Proxmox  
-**Security:** IoT security, WiFi/BLE/NFC/RFID testing, web pentest basics  
-**Workflow:** PRD-first planning, AI coding agents, debugging, documentation
+**App support:** application maintenance, troubleshooting, deployment support, documentation  
+**Frontend:** React, Vite, JavaScript, TypeScript basics, HTML, CSS  
+**Backend:** Node.js, Express, FastAPI, REST APIs  
+**Database:** PostgreSQL, SQLite, SQLAlchemy  
+**Infra:** Linux, Docker, Docker Compose, Nginx, Proxmox VE, Proxmox Backup Server  
+**Networking:** MikroTik, VLAN, NAT, firewall rules, Wi-Fi, DHCP  
+**Security:** RBAC, IoT security, WiFi/BLE/NFC/RFID testing, web security basics  
+**Workflow:** requirements analysis, PRD documentation, AI-assisted development, debugging, code review, Excel/XLSX reporting, automated report distribution
 
 ## open to
 
-- Application maintenance
-- Internal tools
-- Operations dashboards
-- Fullstack operations
-- Technical support engineering
-- Automation workflows
+- Application Support
+- IT Application Support
+- Application Maintenance
+- Internal Tools
+- Technical Support Engineering
+- Fullstack Operations
+- Reporting and workflow automation
 
-Best fit: small teams, ops teams, IT teams, and founders who need practical tools that solve real workflow problems.
+Best fit: teams that need practical tools for real operational problems, not pretty demos that nobody uses.
 
 ## links
 

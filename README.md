@@ -2,95 +2,148 @@
 
 > **Maker / Embedded / Automation / Open Source**
 
-I build software and hardware that solve real operational problems.
+I build practical software and embedded systems that solve real operational problems.
 
-My work spans **internal tools, IoT, automation, Linux infrastructure, and application support**—turning repetitive workflows into reliable systems. I enjoy bridging software with electronics, from backend services and dashboards to ESP32-based devices and deployment pipelines.
+My interests sit at the intersection of **automation, infrastructure, IoT, AI, and security**—from internal dashboards and backend services to ESP32 devices, MQTT platforms, Linux infrastructure, and AI-powered developer tools.
 
-## What I build
+I enjoy turning repetitive processes into reliable systems that are easier to operate, monitor, and maintain.
 
-* ⚙️ Internal tools and operations dashboards
-* 🤖 Workflow and reporting automation
-* 📡 IoT platforms and telemetry systems
-* 🐳 Dockerized applications on Linux
-* 🔒 Security-aware applications and IoT tooling
-* 📊 Monitoring, diagnostics, and operational visibility
+---
 
-## Current Focus
+## 🚀 Featured Projects
 
-* Embedded Systems
-* IoT
-* Automation
-* Full Stack Development
-* Linux Infrastructure
-* AI-assisted Engineering
-* Open Source
+### 🏢 Enterprise Operations Monitor
 
-## Featured Projects
+An operations dashboard inspired by enterprise application support workflows.
 
-### Enterprise Operations Monitor
-
-Operations dashboard inspired by real enterprise support workflows.
-
-* Store monitoring
+* Operations monitoring
+* System health
 * Backup verification
 * Deployment tracking
-* Health monitoring
 * Role-based access control
 * Operational reporting
 
-### Velesync
+**Stack:** React · Node.js · PostgreSQL · Docker
 
-IoT telemetry platform built around MQTT, Docker, backend services, and web dashboards.
+---
 
-### Prototype IoT Pentester
+### 🤖 NVIDIA NIM Arena
 
-Experimental toolkit for assessing Wi-Fi, BLE, NFC/RFID, and embedded device security.
+Automated benchmarking platform for NVIDIA NIM models.
 
-### Antigravity Universal Patch
+* Automated hourly benchmarks
+* Interactive leaderboard
+* Self-hostable
+* Zero infrastructure setup
 
-Compatibility layer enabling Antigravity IDE to run on legacy CPUs through QEMU user-mode emulation.
+**Stack:** Python · GitHub Actions · Static Dashboard
 
-### Docker Termux
+---
 
-Experiments bringing containerized workflows to lightweight Linux and Android environments.
+### 📡 Velesync
 
-## Tech
+IoT telemetry and monitoring platform built around MQTT.
 
-**Languages**
+Features include:
 
-JavaScript • TypeScript • Python • SQL • HTML • CSS
+* Device telemetry
+* FastAPI backend
+* Docker deployment
+* Nginx reverse proxy
+* Real-time dashboard
 
-**Backend**
+**Stack:** FastAPI · MQTT · Docker · Nginx
 
-Node.js • Express • FastAPI • REST APIs
+---
 
-**Frontend**
+### 🔐 Prototype IoT Pentester
+
+Experimental toolkit for assessing embedded and IoT security.
+
+Supports research around:
+
+* Wi-Fi
+* BLE
+* NFC
+* RFID
+* Embedded device workflows
+
+---
+
+### 🌐 AgentRouter Spoof Proxy
+
+Network proxy for experimenting with AI routing, request handling, and service integration.
+
+---
+
+### ⚡ Antigravity Universal Patch
+
+Compatibility patch enabling Antigravity IDE language servers to run on legacy CPUs through QEMU user-mode emulation.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+JavaScript • TypeScript • Python • C • SQL • HTML • CSS • Shell
+
+### Frontend
 
 React • Vite
 
-**Infrastructure**
+### Backend
 
-Linux • Docker • Docker Compose • Nginx • Proxmox • PostgreSQL • SQLite
+Node.js • Express • FastAPI • REST APIs
 
-**Embedded & Networking**
+### Embedded & IoT
 
-ESP32 • MQTT • MikroTik • VLAN • NAT • Wi-Fi
+ESP32 • MQTT • BLE • Wi-Fi • NFC • RFID
 
-**Interests**
+### Infrastructure
 
-Automation • Embedded Systems • IoT • AI • DevOps • Cybersecurity • Open Source
+Linux • Docker • Docker Compose • Nginx • PostgreSQL • SQLite • Proxmox
 
-## Currently Exploring
+### Networking
 
-* Edge AI on embedded devices
-* IoT fleet management
-* Secure embedded systems
+MikroTik • VLAN • NAT • DHCP • Firewalls
+
+### Security
+
+RBAC • Web Security • IoT Security • Network Security
+
+---
+
+## 🌱 Currently Exploring
+
+* AI agents
+* Embedded AI
+* Edge computing
+* Home lab automation
 * Self-hosted infrastructure
-* AI agents for developer workflows
+* Fleet management for IoT devices
+* Developer productivity tools
 
-## Connect
+---
 
-* GitHub: https://github.com/trefeon
-* LinkedIn: https://linkedin.com/in/trefeon
+## 💡 Interests
+
+* Building useful tools
+* Embedded systems
+* Open source
+* Infrastructure
+* Automation
+* AI engineering
+* Cybersecurity
+* Linux
+
+---
+
+## 📫 Connect
+
+* GitHub — https://github.com/trefeon
+* LinkedIn — https://linkedin.com/in/trefeon
+
+---
 
 > *Build useful things. Automate the boring ones.*

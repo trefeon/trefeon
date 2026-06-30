@@ -1,80 +1,96 @@
-# yo, i'm Abi
+# Hi, I'm Abi 👋
 
-Application Support Engineer / IT Support & Application Maintenance from Bandung, Indonesia.
+> **Maker / Embedded / Automation / Open Source**
 
-I build and maintain internal tools, dashboards, automation workflows, and Linux-backed web apps for real operations problems. My lane sits between app support, IT ops, fullstack development, Docker/Nginx deployment, reporting automation, and practical debugging.
+I build software and hardware that solve real operational problems.
 
-I like fixing messy workflows: fewer manual checks, clearer monitoring, better reports, and systems that are easier for ops teams to use.
+My work spans **internal tools, IoT, automation, Linux infrastructure, and application support**—turning repetitive workflows into reliable systems. I enjoy bridging software with electronics, from backend services and dashboards to ESP32-based devices and deployment pipelines.
 
-## what i work on
+## What I build
 
-- Application maintenance, bug fixing, and deployment support
-- Internal tools and operations dashboards
-- Excel/XLSX reporting and automated report distribution
-- Endpoint monitoring and support workflows
-- Docker, Nginx, Linux, Proxmox, and PostgreSQL-backed apps
-- AI-assisted development with PRD documentation, debugging, and manual review
-- Security-aware building around RBAC, IoT, and networked systems
+* ⚙️ Internal tools and operations dashboards
+* 🤖 Workflow and reporting automation
+* 📡 IoT platforms and telemetry systems
+* 🐳 Dockerized applications on Linux
+* 🔒 Security-aware applications and IoT tooling
+* 📊 Monitoring, diagnostics, and operational visibility
 
-## current direction
+## Current Focus
 
-- Application Support Engineer
-- IT Application Support
-- Internal Tools Developer
-- Technical Support Engineer
-- Fullstack Operations
-- Automation for IT/support workflows
+* Embedded Systems
+* IoT
+* Automation
+* Full Stack Development
+* Linux Infrastructure
+* AI-assisted Engineering
+* Open Source
 
-## proof of work
+## Featured Projects
 
-### [Enterprise Operations Monitor](https://github.com/trefeon/enterprise-ops-monitor)
+### Enterprise Operations Monitor
 
-Retail/store operations dashboard using simulated data.
+Operations dashboard inspired by real enterprise support workflows.
 
-Covers EOD monitoring, store sync, backups, system health, agent updater, accounts, roles, and after-hours checks.
+* Store monitoring
+* Backup verification
+* Deployment tracking
+* Health monitoring
+* Role-based access control
+* Operational reporting
 
-Built from real app-ops pain: too much manual checking, unclear branch status, repetitive update workflows, and missing operational visibility.
+### Velesync
 
-### [Velesync](https://github.com/trefeon/Velesync)
+IoT telemetry platform built around MQTT, Docker, backend services, and web dashboards.
 
-IoT telemetry and monitoring platform using MQTT, backend services, Docker/Nginx deployment concepts, and web dashboard workflows.
+### Prototype IoT Pentester
 
-### [Prototype IoT Pentester](https://github.com/trefeon/Prototype-IoT-Pentester)
+Experimental toolkit for assessing Wi-Fi, BLE, NFC/RFID, and embedded device security.
 
-Prototype toolkit for IoT security testing across WiFi, BLE, NFC/RFID, and device workflows.
+### Antigravity Universal Patch
 
-### [Antigravity Universal Patch](https://github.com/trefeon/antigravity-universal-patch)
+Compatibility layer enabling Antigravity IDE to run on legacy CPUs through QEMU user-mode emulation.
 
-Compatibility patch for Antigravity IDE language server crashes on older CPUs using QEMU user-mode emulation.
+### Docker Termux
 
-### [Docker Termux](https://github.com/trefeon/Docker-Termux)
+Experiments bringing containerized workflows to lightweight Linux and Android environments.
 
-Docker workflow exploration for Termux and lightweight Linux environments.
+## Tech
 
-## stack
+**Languages**
 
-**App support:** application maintenance, troubleshooting, deployment support, documentation  
-**Frontend:** React, Vite, JavaScript, TypeScript basics, HTML, CSS  
-**Backend:** Node.js, Express, FastAPI, REST APIs  
-**Database:** PostgreSQL, SQLite, SQLAlchemy  
-**Infra:** Linux, Docker, Docker Compose, Nginx, Proxmox VE, Proxmox Backup Server  
-**Networking:** MikroTik, VLAN, NAT, firewall rules, Wi-Fi, DHCP  
-**Security:** RBAC, IoT security, WiFi/BLE/NFC/RFID testing, web security basics  
-**Workflow:** requirements analysis, PRD documentation, AI-assisted development, debugging, code review, Excel/XLSX reporting, automated report distribution
+JavaScript • TypeScript • Python • SQL • HTML • CSS
 
-## open to
+**Backend**
 
-- Application Support
-- IT Application Support
-- Application Maintenance
-- Internal Tools
-- Technical Support Engineering
-- Fullstack Operations
-- Reporting and workflow automation
+Node.js • Express • FastAPI • REST APIs
 
-Best fit: teams that need practical tools for real operational problems, not pretty demos that nobody uses.
+**Frontend**
 
-## links
+React • Vite
 
-- LinkedIn: [linkedin.com/in/trefeon](https://www.linkedin.com/in/trefeon/)
-- GitHub: [github.com/trefeon](https://github.com/trefeon)
+**Infrastructure**
+
+Linux • Docker • Docker Compose • Nginx • Proxmox • PostgreSQL • SQLite
+
+**Embedded & Networking**
+
+ESP32 • MQTT • MikroTik • VLAN • NAT • Wi-Fi
+
+**Interests**
+
+Automation • Embedded Systems • IoT • AI • DevOps • Cybersecurity • Open Source
+
+## Currently Exploring
+
+* Edge AI on embedded devices
+* IoT fleet management
+* Secure embedded systems
+* Self-hosted infrastructure
+* AI agents for developer workflows
+
+## Connect
+
+* GitHub: https://github.com/trefeon
+* LinkedIn: https://linkedin.com/in/trefeon
+
+> *Build useful things. Automate the boring ones.*

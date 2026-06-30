@@ -4,7 +4,7 @@
 
 I build practical software and embedded systems that solve real operational problems.
 
-My interests sit at the intersection of **automation, infrastructure, IoT, AI, and security**—from internal dashboards and backend services to ESP32 devices, MQTT platforms, Linux infrastructure, and AI-powered developer tools.
+My interests sit at the intersection of **automation, infrastructure, IoT, AI, and security** from internal dashboards and backend services to ESP32 devices, MQTT platforms, Linux infrastructure, and AI-powered developer tools.
 
 I enjoy turning repetitive processes into reliable systems that are easier to operate, monitor, and maintain.
 

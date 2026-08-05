@@ -82,6 +82,36 @@ Compatibility patch enabling Antigravity IDE language servers to run on legacy C
 
 ---
 
+### 🐳 Docker-Termux
+
+Docker workflow exploration for Termux and lightweight Linux environments.
+
+---
+
+### 🚦 ESP32 Train Crossing Monitor
+
+Railroad Crossing Protection System Simulation using Python, Tkinter and ESP32.
+
+---
+
+### ⏱️ Excavator Rental Timer
+
+Rental timer system for RC excavator toys in malls. Uses a Wi-Fi Master-Slave ESP32 architecture.
+
+---
+
+### 🌉 IoT Concentrator Bridge
+
+Professional MQTT-based IoT concentrator and bridge platform built around an ESP32 concentrator, an ESP8266 bridge, a FastAPI backend, and a modern React dashboard.
+
+---
+
+### 🛡️ WiFi Pentesting Framework
+
+A comprehensive, modular framework for WiFi penetration testing with a passive-first approach.
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages

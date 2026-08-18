@@ -205,11 +205,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trefeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Trefeon's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trefeon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trefeon&theme=tokyonight" alt="Trefeon's GitHub Profile Details" width="100%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trefeon&theme=tokyonight" alt="Top Languages by Repo" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trefeon&theme=tokyonight" alt="GitHub Repository & Contribution Stats" width="49%">
 </p>
 
 ---

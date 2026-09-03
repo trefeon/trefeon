@@ -29,6 +29,16 @@
       <p>High-performance, OpenAI-compatible gateway for FreeBuff coding models. Features token pooling, session lifecycle tracking, TLS stealth/browser fingerprinting, and an embedded real-time web admin dashboard for Cursor, OpenCode, and VS Code.</p>
     </td>
     <td width="50%">
+      <h3><a href="https://github.com/trefeon/pi-freeflow">🌊 pi-freeflow</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/trefeon/pi-freeflow?style=flat-square&color=yellow" alt="Stars">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      </p>
+      <p>23 free curated AI models (up to 1M context) for Oh My Pi & Pi. Thin provider plus dumb relay pool to bypass rate limits.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3><a href="https://github.com/trefeon/agentrouter-spoof-proxy">🛡️ agentrouter-spoof-proxy</a></h3>
       <p>
         <img src="https://img.shields.io/github/stars/trefeon/agentrouter-spoof-proxy?style=flat-square&color=yellow" alt="Stars">
@@ -36,6 +46,24 @@
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </p>
       <p>Fast reverse proxy that exposes AgentRouter's Claude and OpenAI models as a local OpenAI API endpoint. Implements WAF bypass, dynamic header spoofing, automatic model health routing, and one-line cross-platform installers.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/trefeon/lmntea-router">🍵 lmntea-router</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono">
+      </p>
+      <p>Clean-slate LLM gateway for AI coding harnesses — compact Hono core with a declarative 32-provider registry.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/trefeon/codebuffy">🐃 codebuffy</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun">
+      </p>
+      <p>Production-grade CodeBuddy-to-API gateway exposing Tencent CodeBuddy / WorkBuddy upstream models through standard OpenAI / Anthropic / Responses-compatible endpoints.</p>
     </td>
   </tr>
   <tr>
@@ -74,30 +102,12 @@
       <p>Distributed MQTT IoT concentrator platform connecting an ESP32 concentrator, ESP8266 bridge nodes, a high-throughput FastAPI backend, and a modern React operations dashboard.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/trefeon/excavator-rental-timer">⏱️ excavator-rental-timer</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/C%2FArduino-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-        <img src="https://img.shields.io/badge/Wi--Fi-Master%2FSlave-007ACC?style=flat-square" alt="Wi-Fi">
-      </p>
-      <p>Commercial arcade rental timer system for RC excavators operating in retail venues, utilizing a synchronized ESP32 Wi-Fi Master-Slave architecture for reliable countdown and power relay cutoffs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3><a href="https://github.com/trefeon/Velesync">📡 Velesync</a></h3>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-MQTT-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/Docker-Nginx-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       </p>
       <p>End-to-end IoT telemetry and device monitoring platform powered by MQTT message brokering, asynchronous FastAPI processing, Nginx reverse proxying, and containerized Docker services.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/trefeon/esp32-train-crossing-monitor">🚦 esp32-train-crossing-monitor</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/ESP32-Hardware-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-      </p>
-      <p>Railroad crossing protection system simulation with real-time sensor ingestion, fail-safe interlocking logic, and desktop visual telemetry.</p>
     </td>
   </tr>
 </table>
@@ -134,24 +144,15 @@
       </p>
       <p>Custom Team Win Recovery Project (TWRP) device tree for SM-J105F with automated build pipeline configured via GitHub Actions.</p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/trefeon/Docker-Termux">🐳 Docker-Termux</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Termux-Android-000000?style=flat-square&logo=termux&logoColor=white" alt="Termux">
-        <img src="https://img.shields.io/badge/Docker-Alpine-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      </p>
-      <p>Practical guide and tooling for setting up lightweight Docker and containerized Linux workflows directly inside Android Termux environments.</p>
-    </td>
   </tr>
 </table>
 
 ---
 
-### 🛡️ Security Auditing & Enterprise IT Operations
+### 🖥️ Enterprise IT Operations & Applied Builds
 
-- **[Prototype-IoT-Pentester](https://github.com/trefeon/Prototype-IoT-Pentester)** — Comprehensive hardware & wireless security toolkit for auditing IoT devices across Wi-Fi, BLE, NFC, and RFID attack surfaces.
-- **[wifi_pentesting_project](https://github.com/trefeon/wifi_pentesting_project)** — Modular wireless network testing framework focusing on passive frame capture, beacon analysis, and radio diagnostic routines.
 - **[enterprise-ops-monitor](https://github.com/trefeon/enterprise-ops-monitor)** — Operational dashboard inspired by enterprise support workflows: infrastructure monitoring, system health checks, backup verification, and RBAC reporting. *(React · Node.js · PostgreSQL · Docker)*
+- **[groundease](https://github.com/trefeon/groundease)** — Evidence-based grounding app for managing anxiety and stress: SOS sessions, SUD pre/post tracking, and 6 guided sensory, breathing, and movement techniques. *(TypeScript)*
 
 ---
 

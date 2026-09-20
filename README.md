@@ -20,13 +20,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/trefeon/freebuff-proxy">⚡ freebuff-proxy</a></h3>
+      <h3><a href="https://github.com/trefeon/freebucks-proxy">⚡ freebucks-proxy</a></h3>
       <p>
-        <img src="https://img.shields.io/github/stars/trefeon/freebuff-proxy?style=flat-square&color=yellow" alt="Stars">
-        <img src="https://img.shields.io/github/forks/trefeon/freebuff-proxy?style=flat-square&color=blue" alt="Forks">
+        <img src="https://img.shields.io/github/stars/trefeon/freebucks-proxy?style=flat-square&color=yellow" alt="Stars">
+        <img src="https://img.shields.io/github/forks/trefeon/freebucks-proxy?style=flat-square&color=blue" alt="Forks">
         <img src="https://img.shields.io/badge/Go-1.26+-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </p>
-      <p>High-performance, OpenAI-compatible gateway for FreeBuff coding models. Features token pooling, session lifecycle tracking, TLS stealth/browser fingerprinting, and an embedded real-time web admin dashboard for Cursor, OpenCode, and VS Code.</p>
+      <p>Multi-account OpenAI-compatible gateway for coding models — pooled keys, session lifecycle, TLS stealth, and embedded Svelte admin dashboard. Anthropic-compatible layer included.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/pi-freeflow">🌊 pi-freeflow</a></h3>
@@ -81,7 +81,7 @@
         <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
         <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU">
       </p>
-      <p>Universal compatibility patch resolving Antigravity IDE language server <code>SIGILL</code> crashes on older CPUs lacking modern instruction sets via transparent QEMU user-mode emulation.</p>
+      <p>Universal compatibility patch resolving Antigravity IDE language server <code>SIGILL</code> crashes on older CPUs lacking modern instruction sets via transparent QEMU user-mode emulation. <i>(Archived.)</i></p>
     </td>
   </tr>
 </table>
@@ -153,6 +153,9 @@
 
 - **[enterprise-ops-monitor](https://github.com/trefeon/enterprise-ops-monitor)** — Operational dashboard inspired by enterprise support workflows: infrastructure monitoring, system health checks, backup verification, and RBAC reporting. *(React · Node.js · PostgreSQL · Docker)*
 - **[groundease](https://github.com/trefeon/groundease)** — Evidence-based grounding app for managing anxiety and stress: SOS sessions, SUD pre/post tracking, and 6 guided sensory, breathing, and movement techniques. *(TypeScript)*
+- **[brew-log-coffee-shop-passport](https://github.com/trefeon/brew-log-coffee-shop-passport)** — Coffee-shop passport / brew log. *(JavaScript)*
+- **[aquarium-water-change-volume-calculator](https://github.com/trefeon/aquarium-water-change-volume-calculator)** — Single-page widget for fish keepers: exact water-change volumes, bucket/trip planning, and livestock safety indicators. *(HTML · CSS · JavaScript, zero dependencies)*
+- **[pasta-water-salt-ratio-calculator](https://github.com/trefeon/pasta-water-salt-ratio-calculator)** — Salmastro responsive pasta-water salinity calculator: pot presets, L/qt units, salinity tiers. *(CSS · JavaScript)*
 
 ---
 

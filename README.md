@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
         <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
       </p>
-      <p>Pooled OpenAI- and Anthropic-compatible gateway over free upstream accounts: wire translation, session lifecycle, credit metering, and an embedded Svelte dashboard. Successor to <code>freebucks-proxy</code>.</p>
+      <p>Pooled OpenAI- and Anthropic-compatible gateway over free upstream accounts: wire translation, session lifecycle, credit metering, and an embedded Svelte dashboard. Successor to freebucks-proxy.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/pi-freeflow">🌊 pi-freeflow</a></h3>

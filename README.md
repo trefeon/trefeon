@@ -79,10 +79,10 @@
     <td width="50%">
       <h3><a href="https://github.com/trefeon/zero-slop">🧹 zero-slop</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/npm-v%40zero--slop%2Fcli-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
+        <img src="https://img.shields.io/badge/rules-389%20across%207%20domains-2ea44f?style=flat-square" alt="389 rules">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
-      <p>Zero-config CLI and linting engine scanning prose, UI design, and source code for repetitive AI-generated patterns and slop across <b>389 rules</b> in 7 specialized domains.</p>
+      <p>Zero-config CLI and linting engine scanning prose, UI design, and code for the generic patterns of AI-generated work across <b>389 rules</b> in 7 domains, with CI that gates the project's own docs.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/antigravity-universal-patch">🔧 antigravity-universal-patch</a></h3>

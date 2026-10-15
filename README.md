@@ -20,13 +20,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/trefeon/freebucks-proxy">⚡ freebucks-proxy</a></h3>
+      <h3><a href="https://github.com/trefeon/freelane">🛣️ freelane</a></h3>
       <p>
-        <img src="https://img.shields.io/github/stars/trefeon/freebucks-proxy?style=flat-square&color=yellow" alt="Stars">
-        <img src="https://img.shields.io/github/forks/trefeon/freebucks-proxy?style=flat-square&color=blue" alt="Forks">
-        <img src="https://img.shields.io/badge/Go-1.26+-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/github/stars/trefeon/freelane?style=flat-square&color=yellow" alt="Stars">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
       </p>
-      <p>Multi-account OpenAI-compatible gateway for coding models — pooled keys, session lifecycle, TLS stealth, and embedded Svelte admin dashboard. Anthropic-compatible layer included.</p>
+      <p>Pooled OpenAI- and Anthropic-compatible gateway over free upstream accounts: wire translation, session lifecycle, credit metering, and an embedded Svelte dashboard. Successor to <code>freebucks-proxy</code>.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/pi-freeflow">🌊 pi-freeflow</a></h3>
@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/github/stars/trefeon/pi-freeflow?style=flat-square&color=yellow" alt="Stars">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
-      <p>23 free curated AI models (up to 1M context) for Oh My Pi & Pi. Thin provider plus dumb relay pool to bypass rate limits.</p>
+      <p>35 free curated AI models (up to 1M context) for Oh My Pi & Pi. Thin provider plus dumb relay pool to bypass rate limits.</p>
     </td>
   </tr>
   <tr>
@@ -48,12 +48,13 @@
       <p>Fast reverse proxy that exposes AgentRouter's Claude and OpenAI models as a local OpenAI API endpoint. Implements WAF bypass, dynamic header spoofing, automatic model health routing, and one-line cross-platform installers.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/trefeon/lmntea-router">🍵 lmntea-router</a></h3>
+      <h3><a href="https://github.com/trefeon/warp-relay-pool">🌀 warp-relay-pool</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono">
+        <img src="https://img.shields.io/github/stars/trefeon/warp-relay-pool?style=flat-square&color=yellow" alt="Stars">
+        <img src="https://img.shields.io/badge/MicroWARP-FF6600?style=flat-square" alt="MicroWARP">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       </p>
-      <p>Clean-slate LLM gateway for AI coding harnesses — compact Hono core with a declarative 32-provider registry.</p>
+      <p>Self-hosted Docker/MicroWARP egress relay pool for AI coding agents — N isolated WARP egress IPs exposed via Cloudflare Quick Tunnels or Tailscale, with a keep-cold prober rotating throttled clients automatically (~1.8 MiB RAM/node).</p>
     </td>
   </tr>
   <tr>
@@ -64,6 +65,14 @@
         <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun">
       </p>
       <p>Production-grade CodeBuddy-to-API gateway exposing Tencent CodeBuddy / WorkBuddy upstream models through standard OpenAI / Anthropic / Responses-compatible endpoints.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/trefeon/lmntea-router">🍵 lmntea-router</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono">
+      </p>
+      <p>Clean-slate LLM gateway for AI coding harnesses — compact Hono core with a declarative 32-provider registry.</p>
     </td>
   </tr>
   <tr>
@@ -82,6 +91,18 @@
         <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU">
       </p>
       <p>Universal compatibility patch resolving Antigravity IDE language server <code>SIGILL</code> crashes on older CPUs lacking modern instruction sets via transparent QEMU user-mode emulation. <i>(Archived.)</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/trefeon/freebucks-proxy">⚡ freebucks-proxy</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/trefeon/freebucks-proxy?style=flat-square&color=yellow" alt="Stars">
+        <img src="https://img.shields.io/github/forks/trefeon/freebucks-proxy?style=flat-square&color=blue" alt="Forks">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/badge/status-deprecated%20%C2%B7%20archived-critical?style=flat-square" alt="Deprecated">
+      </p>
+      <p>Multi-account OpenAI-compatible gateway for coding models — pooled keys, session lifecycle, and embedded Svelte admin dashboard. <b>Deprecated:</b> archived and no longer maintained; development continues in <a href="https://github.com/trefeon/freelane">freelane</a>.</p>
     </td>
   </tr>
 </table>
@@ -191,6 +212,9 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
@@ -199,6 +223,9 @@
 <p>
   <img src="https://img.shields.io/badge/Docker%20%26%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Nginx%20Reverse%20Proxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale">
+  <img src="https://img.shields.io/badge/WireGuard%20%2F%20WARP-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard">
   <img src="https://img.shields.io/badge/GitHub%20Actions%20CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Linux%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
@@ -224,6 +251,7 @@
 ## 🌱 Current Engineering Focus
 
 - 🌐 **AI Gateways & High-Throughput Proxies**: Designing low-latency reverse proxies with smart pooling, TLS fingerprint emulation, and session orchestration in Go.
+- 🛰️ **Self-Hosted Egress Relay Pools**: Building WARP/WireGuard egress pools with public tunnel exposure and automatic rate-limit rotation for parallel coding agents.
 - 📡 **Edge Telemetry & IoT Fleets**: Building resilient MQTT concentrator architectures and robust hardware monitoring pipelines.
 - 🐧 **Custom Embedded OS & Kernel Porting**: Experimenting with postmarketOS and Linux kernel bringup on legacy hardware platforms.
 

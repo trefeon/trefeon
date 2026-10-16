@@ -4,12 +4,12 @@
   <a href="https://github.com/trefeon"><img src="https://img.shields.io/github/followers/trefeon?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"></a>
   <a href="https://github.com/trefeon?tab=repositories"><img src="https://img.shields.io/github/stars/trefeon?label=Total%20Stars&style=flat-square&color=gold" alt="Total Stars"></a>
   <a href="https://linkedin.com/in/trefeon"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure%20%7C%20IoT%20%7C%20Low--Level%20Systems-2ea44f?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20DevOps%20%7C%20AI%20Infrastructure-2ea44f?style=flat-square" alt="Focus">
 </p>
 
-> **Systems & Software Engineer · Embedded & IoT Developer · AI Tooling Builder**
-> 
-> I build high-performance network proxies, resilient AI developer tooling, embedded IoT platforms, and low-level Linux systems. My work focuses on solving real operational friction—turning complex protocols, edge hardware, and distributed services into reliable, observable, and automated solutions.
+> **Backend & DevOps engineer who likes the unglamorous half of the job: proxies, Docker Compose, CI, and the 3am health check.**
+>
+> The AI repos are mostly proxies with opinions, turning free model tiers into something a coding agent can actually use. When rate limits get rude, I spread the traffic across a pool of WARP egress nodes instead of writing an angry issue. The 389-rule linter I built to yell at AI slop runs on my own docs, which keeps us both honest. There's also an ops dashboard for stores that don't exist, a Linux port for a 2016 Samsung phone, and calculators for pasta water and fish tanks, partly to prove I can do CSS without a framework.
 
 ---
 

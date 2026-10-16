@@ -20,15 +20,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/trefeon/freelane">🛣️ freelane</a></h3>
-      <p>
-        <img src="https://img.shields.io/github/stars/trefeon/freelane?style=flat-square&color=yellow" alt="Stars">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
-      </p>
-      <p>Pooled OpenAI- and Anthropic-compatible gateway over free upstream accounts: wire translation, session lifecycle, credit metering, and an embedded Svelte dashboard. Successor to freebucks-proxy.</p>
-    </td>
-    <td width="50%">
       <h3><a href="https://github.com/trefeon/pi-freeflow">🌊 pi-freeflow</a></h3>
       <p>
         <img src="https://img.shields.io/github/stars/trefeon/pi-freeflow?style=flat-square&color=yellow" alt="Stars">
@@ -36,8 +27,6 @@
       </p>
       <p>35 free curated AI models (up to 1M context) for Oh My Pi & Pi. Thin provider plus dumb relay pool to bypass rate limits.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/agentrouter-spoof-proxy">🛡️ agentrouter-spoof-proxy</a></h3>
       <p>
@@ -47,6 +36,8 @@
       </p>
       <p>Fast reverse proxy that exposes AgentRouter's Claude and OpenAI models as a local OpenAI API endpoint. Implements WAF bypass, dynamic header spoofing, automatic model health routing, and one-line cross-platform installers.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/warp-relay-pool">🌀 warp-relay-pool</a></h3>
       <p>
@@ -56,8 +47,6 @@
       </p>
       <p>Self-hosted Docker/MicroWARP egress relay pool for AI coding agents — N isolated WARP egress IPs exposed via Cloudflare Quick Tunnels or Tailscale, with a keep-cold prober rotating throttled clients automatically (~1.8 MiB RAM/node).</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/codebuffy">🐃 codebuffy</a></h3>
       <p>
@@ -66,6 +55,8 @@
       </p>
       <p>Production-grade CodeBuddy-to-API gateway exposing Tencent CodeBuddy / WorkBuddy upstream models through standard OpenAI / Anthropic / Responses-compatible endpoints.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/lmntea-router">🍵 lmntea-router</a></h3>
       <p>
@@ -74,8 +65,6 @@
       </p>
       <p>Clean-slate LLM gateway for AI coding harnesses — compact Hono core with a declarative 32-provider registry.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/trefeon/zero-slop">🧹 zero-slop</a></h3>
       <p>
@@ -84,7 +73,9 @@
       </p>
       <p>Zero-config CLI and linting engine scanning prose, UI design, and code for the generic patterns of AI-generated work across <b>389 rules</b> in 7 domains, with CI that gates the project's own docs.</p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td colspan="2">
       <h3><a href="https://github.com/trefeon/antigravity-universal-patch">🔧 antigravity-universal-patch</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
@@ -102,7 +93,7 @@
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
         <img src="https://img.shields.io/badge/status-deprecated%20%C2%B7%20archived-critical?style=flat-square" alt="Deprecated">
       </p>
-      <p>Multi-account OpenAI-compatible gateway for coding models — pooled keys, session lifecycle, and embedded Svelte admin dashboard. <b>Deprecated:</b> archived and no longer maintained; development continues in <a href="https://github.com/trefeon/freelane">freelane</a>.</p>
+      <p>Multi-account OpenAI-compatible gateway for coding models — pooled keys, session lifecycle, and embedded Svelte admin dashboard. <b>Deprecated:</b> archived and no longer maintained; development continues in a private repository.</p>
     </td>
   </tr>
 </table>
